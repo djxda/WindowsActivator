@@ -1,6 +1,6 @@
 # Windows Activator Batch Script
 
-![Windows Activation](windows-activation.png)
+![Windows Activation](IMG_20231011_134404.png)
 
 ## Description
 This repository contains a batch script for activating Windows operating systems. This script is intended for educational purposes only and should not be used for illegal activities.
