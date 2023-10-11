@@ -17,8 +17,11 @@ This repository contains a batch script for activating Windows operating systems
 ## Disclaimer
 This batch script is provided for educational purposes only. It is essential to have a valid Windows license to use Windows legally. The author and contributors of this repository are not responsible for any misuse or illegal activities.
 
-## Contributing
-Contributions to improve this script or enhance its functionality are welcome. If you have suggestions or find any issues, please open an issue or create a pull request. 🤝
+## How You Can Contribute
+
+- ⭐ **Star** this repository if you like what you see. It helps me know that my work is appreciated and encourages me to keep improving it.
+
+- 📢 **Follow** me on GitHub for updates on this project and more exciting projects in the future. I love sharing my work and connecting with fellow developers!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
